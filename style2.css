@@ -220,9 +220,8 @@ h2{
         justify-content: center;
     }
     .contact{
-        text-align: center;
         display: grid;
-        justify-content: center;
+        justify-content:flex-start;
     }
     
 }
