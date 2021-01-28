@@ -214,11 +214,15 @@ h2{
         grid-template-columns: 1fr;
         margin: auto;
     }
-    .contact{
-        text-align: center;
-    }
     .name{
         text-align: center;
+        display: grid;
+        justify-content: center;
+    }
+    .contact{
+        text-align: center;
+        display: grid;
+        justify-content: center;
     }
     
 }
