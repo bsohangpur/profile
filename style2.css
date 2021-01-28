@@ -19,34 +19,34 @@ body {
 }
 aside {
     grid-area: sidebar;
-    background-color: #007FFF;
+    /*background-color: #007FFF;*/
 }
 
 header {
     grid-area: header;
-    background-color: #91C8FF;
+    /*background-color: #91C8FF;*/
     
 }
 
 #box1 {
     grid-area: sect1;
-    background-color: #B3D8FD;
+    /*background-color: #B3D8FD;*/
 }
 #box2 {
     grid-area: sect2;
-    background-color: #5E86AF;
+    /*background-color: #5E86AF*/;
 }
 #box3 {
     grid-area: sect3;
-    background-color: #6D9FD2;
+    /*background-color: #6D9FD2;*/
 }
 #box4{
     grid-area: sect4;
-    background-color: #8D9FD4;
+    /*background-color: #8D9FD4;*/
 }
 #box5{
     grid-area: sect5;
-    background-color: #123FF9;
+    /*background-color: #123FF9;*/
 }
 @media only screen and (min-width: 768px) {
 
@@ -68,7 +68,7 @@ header {
 
 .name{
     display: grid;
-    border: 2px solid black;
+    border: 2px solid white;
     justify-content: flex-end;
 }
 
